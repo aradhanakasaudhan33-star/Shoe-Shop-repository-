@@ -1,4 +1,4 @@
-
+hospital management system 
 // hospital_mgmt.c
 #include <stdio.h>
 #include <stdlib.h>
